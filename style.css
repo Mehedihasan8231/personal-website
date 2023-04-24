@@ -36,7 +36,9 @@ section {
 
 h1, h2 {
 	font-weight: normal;
+	
 }
+h3 { color: red;}
 
 footer {
 	background-color: #333;
