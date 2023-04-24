@@ -38,7 +38,9 @@ h1, h2 {
 	font-weight: normal;
 	
 }
-h3 { color: red;}
+h3 {
+	color: #ff0000;
+}
 
 footer {
 	background-color: #333;
